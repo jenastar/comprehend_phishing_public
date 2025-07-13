@@ -2,6 +2,8 @@
 
 This tool spots phishing emails using AI!
 
+[![jenastar/comprehend_phishing_public context](https://badge.forgithub.com/jenastar/comprehend_phishing_public)](https://uithub.com/jenastar/comprehend_phishing_public)
+
 ## What This Does
 
 This tool uses AWS to:
